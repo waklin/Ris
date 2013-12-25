@@ -1,4 +1,9 @@
 *.suo
 *.cache
+ExamResultReport/bin/
 ExamResultReportControl/bin/
 ExamResultReportControl/obj/
+ExamResultReport/ExamResultReportControl/bin/
+ExamResultReport/ExamResultReportControl/obj/
+ExamResultReport/test/bin/
+ExamResultReport/test/obj/
